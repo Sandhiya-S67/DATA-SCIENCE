@@ -1,0 +1,5 @@
+name: John
+Age: 24
+Gender: Male
+Role: Software Engineer
+Salary: 100000
